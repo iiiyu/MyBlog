@@ -69,6 +69,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:iiiyu/iiiyu.github.com.git
-  branch: master
+  type: git
+  repo: git@gitcafe.com:iYu/iYu
+  branch: gitcafe-pages
