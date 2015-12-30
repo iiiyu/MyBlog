@@ -79,7 +79,7 @@ Noark9 被成功忽悠。 Get it.
 解释一下我的意图：
 1.  我们是一个 Github 周边应用。如果可以，我很想把章鱼猫给搞进去。但是我们仔细看了 Github 版权和授权。是不可以出现章鱼猫的。
 2.  那不能出现我就想着，出现一部分是可以的吧。所以有个触手。暗喻章鱼猫。
-3.  这个触手在搞毛呢， 在整理星星啊。暗喻我们是一个管理 Github Star 的应用。 
+3.  这个触手在搞毛呢， 在整理星星啊。暗喻我们是一个管理 Github Star 的应用。
 
 嗯那，这就是我华丽的草图。
 ![][image-2]
@@ -181,8 +181,8 @@ Noark9 被成功忽悠。 Get it.
 
 
 
-[1]:	http://creativecommons%E3%80%82org/licenses/by-nc/4%E3%80%820/deed%E3%80%82zh_TW
-[2]:	http://iiiyu%E3%80%82com/atom%E3%80%82xml
+[1]:	http://creativecommons.org/licenses/by/4.0/
+[2]:	http://iiiyu.com/atom.xml
 [3]:	http://ohmystarapp.com
 [4]:	http://vimeo.com/83384649
 [5]:	https://itunes.apple.com/us/app/oh-my-star/id788446112?l=en&mt=12

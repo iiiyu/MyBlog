@@ -47,12 +47,12 @@ mogenerator -m myDataBase.xcdatamodeld/myDataBase.xcdatamodel/
 提示:
 
 	/Volumes/Data/iYu/Library/Developer/Xcode/DerivedData/testMogenerator-adwdmrbsvjjxqtawmqvnhfdhubts/Build/Intermediates/testMogenerator.build/Debug-iphonesimulator/Mogenerator.build/Script-5B80B84A16D9EC8F00E8E3A3.sh: line 3: mogenerator: command not found Command /bin/sh failed with exit code 127
-	
+
 自己打命令测试Mogenerator是成功的
 
 ![测试Mogenerator](http://ww2.sinaimg.cn/large/a74ecc4cjw1e24hzzauvbj.jpg)
-	
-	
+
+
 xCode使用的是/bin/sh,我怀疑是用homebrew安装的以后的Path跟xCode的/bin/sh/执行的
 
 思考以后在命令之前之前导入mogenerator的路径。 由于我是用homebrew按照的自然在homebrew的路径下面
@@ -67,7 +67,7 @@ mogenerator -m myDataBase.xcdatamodeld/myDataBase.xcdatamodel/
 这次mogenerator是找到了，但是xcadatamodeld又没有找到。看到
 
 	mogenerator: error loading file at myDataBase.xcdatamodeld/myDataBase.xcdatamodel/: no such file exists Command /bin/sh failed with exit code 66
-	
+
 pwd出来路径观察以后把cd去掉
 
 ```
@@ -123,12 +123,3 @@ mogenerator -m ../myDataBase.xcdatamodeld/myDataBase.xcdatamodel/ --template-var
 ## 总结
 
 断断续续折腾了两天。大概明白了mogenerator怎么一个事情。但是好用好还有带研究。这篇blog先发吧。不然又难产了。
-
-
-
-
-
-
-
-
-
