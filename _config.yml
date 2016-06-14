@@ -101,5 +101,4 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@gitcafe.com:iYu/iYu
-  branch: gitcafe-pages
+  repo: git@github.com:iiiyu/iiiyu.github.com.git
