@@ -1,7 +1,7 @@
 ---
 title: 新 iOS Human Interface Guidelines  产品解读 （一）
 date: 2016-06-14 23:11:34
-tags: 产品思考 产品汪 胡思乱想 随便瞎扯
+tags: [PM,产品汪,随便瞎扯]
 ---
 
 本文具有强烈的个人感情色彩,如有观看不适,请尽快关闭. 本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)范围内转载或使用,请尊重版权并且保留原文链接,谢谢您的理解合作. 如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
