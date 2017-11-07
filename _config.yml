@@ -6,7 +6,7 @@
 title: 萧宸宇
 subtitle: 如果不能成为拯救世界的神，那就堕落到征服世界的魔吧。
 description: iOS Cocoa OSX 如果不能成为拯救世界的神 那就堕落到征服世界的魔吧 产品 产品原型 产品设计
-author: ChenYu Xiao
+author: 萧宸宇
 language: zh-CN
 timezone:
 
@@ -84,7 +84,7 @@ archive_generator:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: material
 
 keywords:
   - iOS
