@@ -4,10 +4,7 @@ date: 2017-01-22 10:14:53
 tags: [随便瞎扯,产品思考,产品汪,胡思乱想]
 ---
 
-本文具有强烈的个人感情色彩,如有观看不适,请尽快关闭. 本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)范围内转载或使用,请尊重版权并且保留原文链接,谢谢您的理解合作. 如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
 
-
-![](https://ww2.sinaimg.cn/large/006y8lVagy1fbzeytom91j30dw0a5tag.jpg)
 
 ## 自媒体的瞎几把解读
 
@@ -18,6 +15,11 @@ tags: [随便瞎扯,产品思考,产品汪,胡思乱想]
 其实吧，不必把小程序这么妖魔化。在我看来这是微信进化自然的结果。不负责任的猜想，类似的进化应该也在 Facebook、Line 里面发生着。（PS：支付宝那个小程序技术上算同类型，但是我觉得产品上不是一个东西。因为支付宝本来就不应该是微信 Copy 啊）
 
 <!--more-->
+
+本文具有强烈的个人感情色彩,如有观看不适,请尽快关闭. 本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)范围内转载或使用,请尊重版权并且保留原文链接,谢谢您的理解合作. 如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
+
+
+![](https://ww2.sinaimg.cn/large/006y8lVagy1fbzeytom91j30dw0a5tag.jpg)
 
 ## 微信 OS ？
 
