@@ -9,7 +9,7 @@ tags: iOS
 ## 序
 
 默认安装的cocoapods确实很好用，可是毕竟自己会写一些库和修改一些第三方库来用。所幸cocoapods确实是一个神器。他可以定义自己的库来用。
-如何安装Cocoapods，[请参考这篇](http://iiiyu.com/2013/03/01/learning-ios-notes-sixteen/)
+如何安装Cocoapods，[请参考这篇](https://iiiyu.com/2013/03/01/learning-ios-notes-sixteen/)
 
 
 <!--more-->
@@ -32,7 +32,7 @@ git submodule虽然也可以实现第三方库的管理，但是相对于cocoapo
 **先删掉目录**
 
 ```
-$git rm --cached Vendor/MagicalRecord 
+$git rm --cached Vendor/MagicalRecord
 $git rm --cached Vendor/SVProgressHUD
 $rm -rf Vendor
 ```
@@ -295,7 +295,7 @@ Pod::Spec.new do |s|
   s.name         = "SIStore"
   s.version      = "0.0.2"
   s.summary      = "Sumi Interactive make a new CoreData and iCloud a Third-party library on MagicalRecord."
-  s.homepage     = "http://iiiyu.com"
+  s.homepage     = "https://iiiyu.com"
   s.license      = 'MIT'
   s.author       = { "Xiao ChenYu" => "apple.iiiyu@gmail.com" }
   s.source       = { :git => "https://iiiyu@bitbucket.org/iiiyu/sistore.git", :tag => "0.0.2" }

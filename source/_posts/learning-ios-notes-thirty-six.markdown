@@ -3,7 +3,7 @@ date: 2014-12-26 18:36:31
 tags: iOS
 ---
 
-本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
+本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
 
 
 ## 开篇扯淡
@@ -31,7 +31,7 @@ tags: iOS
 
 本来想改成 TableView 的。改着改着感觉 TableView 的话。可能会牵扯到 MVVM 的问题。 才能架构出来一个正确的程序结构。而我只想说明简单的写清楚如何替代Delegate。所以相当于一个中文简化版本的 [Replacing the Objective-C “Delegate Pattern” with ReactiveCocoa](http://spin.atomicobject.com/2014/02/03/objective-c-delegate-pattern/)了。
 
-那就跟他一样写搜索把。然后实现过程中发现 iOS 8 用新的 UISearchController 来替代了 UISearchDisplayController 了。 
+那就跟他一样写搜索把。然后实现过程中发现 iOS 8 用新的 UISearchController 来替代了 UISearchDisplayController 了。
 
 ## UISearchController Delegate 常规实现
 一般来说我们会设置protocol.
@@ -93,7 +93,7 @@ tags: iOS
 
 2对应的是实现- (void)willPresentSearchController:(UISearchController *)searchController 和 - (void)willDismissSearchController:(UISearchController *)searchController。
 
-现在，让我们来转换为 RAC 的思维模式思考问题。 
+现在，让我们来转换为 RAC 的思维模式思考问题。
 
 ### RAC 模式
 
@@ -101,9 +101,9 @@ tags: iOS
 2. 搜索结果由搜索关键字得来。
 3. 每次修改关键字都应该更新搜索结果。
 
-因此我们要想办法吧 UI 上需要的数据和修改关键字这个动作绑定起来。 
+因此我们要想办法吧 UI 上需要的数据和修改关键字这个动作绑定起来。
 
-同理可以很容易想到。我们也需要把当前 UI 是否处于搜索状态跟会改变搜索状态的动作绑定起来。 
+同理可以很容易想到。我们也需要把当前 UI 是否处于搜索状态跟会改变搜索状态的动作绑定起来。
 
 要怎么绑定呢？ 拥有刚刚 RAC 超过 Hello World 实力的我，想到，我需要构建出来两个RACSignal。
 
@@ -114,7 +114,7 @@ RAC(self, searchResults) = SignalA;
 RAC(self, searching) = SignalB;
 ```
 
-这样的绑定就皆大欢喜了。 
+这样的绑定就皆大欢喜了。
 
 主要用到了下面两个 RAC 的方法：
 
@@ -127,7 +127,7 @@ RAC(self, searching) = SignalB;
 这个方法它的意思是当传入的 Signals 都至少sendNext过一次，接下来只要其中任意一个signal有了新的内容。就会去触发第一个 selector 参数的方法。
 
 
-构造两个 Signal 的代码如下 
+构造两个 Signal 的代码如下
 
 ```
 //  UISearchController+RAC.m

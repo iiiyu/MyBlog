@@ -3,7 +3,7 @@ date: 2014-01-08 20:51:37
 tags: read book notes
 ---
 
-本文仅作为个人记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
+本文仅作为个人记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
 
 
 ## 开篇扯淡

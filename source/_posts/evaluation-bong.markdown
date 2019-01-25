@@ -5,7 +5,7 @@ tags: just-talk
 
 
 
-本文仅作为个人记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
+本文仅作为个人记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
 
 ##开篇扯淡
 
@@ -75,7 +75,7 @@ tags: just-talk
 
 首先是外形
 
-官网上是这样 
+官网上是这样
 ![](http://ww1.sinaimg.cn/large/a6d3226bgw1ebrnhjrlbuj20z10k9769.jpg)
 
 实际上是这样
@@ -162,7 +162,3 @@ tags: just-talk
 然后App的话我会提供很多种运动种类给用户选择。然后数据上传做数据分析和机器学习。这样以后就能识别更多的运动类型了。
 
 恩 福利就说这么多。多的留着啊哈哈。
-
-
-
-

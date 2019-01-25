@@ -1,15 +1,15 @@
-title: iOS笔记(32) UbiquityStoreManager 学习笔记1  
+title: iOS笔记(32) UbiquityStoreManager 学习笔记1
 date: 2013-12-25 23:22:33
 tags: iOS
 ---
 
-本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
+本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
 
 ## 开篇扯淡
 
 现在都是进入互联网时代，一个互联网的App数据肯定是存在互联网上的。到处都是云，到处都是服务器。如果数据是存储在云端or服务器端。每次数据的读取和修改直接作用于服务器。这样不管你用多少设备，多少平台。数据都能保证是唯一的。但是还有些App需要一些更好的性能和效果的时候往往等不起网络的数据传来传去。这时候需要一些折中的办法来解决这些问题。iCloud就是Apple给出的解决方案。就普通用户来看，iCloud应该是在Apple系中的最优选择。但是从开发者的角度来看iCloud就是个无穷无尽的深渊。
 
-全球有很多开发者致力开发第三方库以便让iCloud能被使用。 
+全球有很多开发者致力开发第三方库以便让iCloud能被使用。
 
 UbiquityStoreManager就是其中之一。
 

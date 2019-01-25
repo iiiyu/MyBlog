@@ -8,7 +8,7 @@ tags: iOS
 
 # 序
 
-[上次](http://iiiyu.com/2013/03/29/learning-ios-notes-eighteen/)只是说了三个Core Data栈基本类。这次准备介绍一下常用的类。
+[上次](https://iiiyu.com/2013/03/29/learning-ios-notes-eighteen/)只是说了三个Core Data栈基本类。这次准备介绍一下常用的类。
 
 
 ## NSManagedObject
@@ -34,10 +34,10 @@ next都按完了以后，会生成选择了的Entity对应的一个NSManagedObje
 第三种方法是我现在在使用的方法。
 就是使用Mogenerator.
 
-Mogenerator已经写过一篇blog了。[详细查看Mogenerator的初级使用](http://iiiyu.com/2013/02/22/learning-ios-notes-fifteen/)
+Mogenerator已经写过一篇blog了。[详细查看Mogenerator的初级使用](https://iiiyu.com/2013/02/22/learning-ios-notes-fifteen/)
 好处是生成一次以后，再次生成并会在工程里面重复引用。而且机制上可以直接在生成的类里面进行方法的扩写。不用使用category类。这样整个工程就看起来高级素雅很多。
 
-### NSManagedObject其他注意事项  
+### NSManagedObject其他注意事项
 
 NSManagedObject就是我们拿来操作数据的基本单位。因此对应，增加一条数据是在NSManagedObjectContext新建一个NSManagedObject。查找数据是查找NSManagedObject。修改是修改NSManagedObject类的属性。删除是从NSManagedObjectContext里面删除NSManagedObject类。最后我们保存NSManagedObjectContext，然后一直向上传递到磁盘上面去。才是持久化的修改。
 
@@ -96,7 +96,7 @@ NSSortDescriptor *sort = [[NSSortDescriptor alloc] initWithKey:@"name" ascending
 
 ```
 NSManagedObjectContext *moc = [self managedObjectContext]; NSFetchRequest *request = [[NSFetchRequest alloc] init]; [request setEntity:[NSEntityDescription entityForName:@"Recipe"
-                                                                                                                                                            inManagedObjectContext:moc]];  
+                                                                                                                                                            inManagedObjectContext:moc]];
 ```
 
 
@@ -119,12 +119,3 @@ fetchRequest = [NSFetchRequest fetchRequestWithEntityName:@"Recipe"];
 NSSortDescriptor *sort = [[NSSortDescriptor alloc] initWithKey:@"name" ascending:YES];
 [fetchRequest setSortDescriptors:[NSArray arrayWithObject:sort]];
 ```
-
-
-
-
-
-
-
-
-

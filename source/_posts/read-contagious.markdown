@@ -97,9 +97,9 @@ tags: read book notes
 1. 书中提到 「引爆点」这本书多次。 下本书应该就是它了。
 2. 都什么年代了，生病了能不能相信科学，相信现代医学。那可是你自己的命呐。
 3. 好多想吐槽的，写着写着就忘记了
-4. over 
+4. over
 
 [1]:	http://creativecommons%E3%80%82org/licenses/by-nc/4%E3%80%820/deed%E3%80%82zh_TW
-[2]:	http://iiiyu%E3%80%82com/atom%E3%80%82xml
+[2]:	https://iiiyu%E3%80%82com/atom%E3%80%82xml
 [3]:	http://zh%E3%80%82wikipedia%E3%80%82org/wiki/%E7%97%85%E6%AF%92#%E3%80%82E7%E3%80%8297%E3%80%8285%E3%80%82E6%E3%80%82AF%E3%80%8292%E3%80%82E8%E3%80%8288%E3%80%8287%E3%80%82E4%E3%80%82BA%E3%80%82BA%E3%80%82E9%E3%80%82A1%E3%80%829E%E3%80%82E7%E3%80%8296%E3%80%82BE%E3%80%82E7%E3%80%8297%E3%80%8285
 [4]:	http://zh%E3%80%82wikipedia%E3%80%82org/wiki/%E7%97%85%E6%AF%92%E8%90%A5%E9%94%80

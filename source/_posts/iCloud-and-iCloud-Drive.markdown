@@ -6,7 +6,7 @@ tags: just-talk
 本文仅作为个人学习记录使用,也欢迎在[许可协议][1]范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS][2]方式订阅本站,这样您将能在第一时间获取本站信息.
 
 ## 开篇扯淡
-1. 好久没有写 blog 了。 
+1. 好久没有写 blog 了。
 2. 最近发现很多人对 iCloud 和 iCloud Drive 有些误解。而还没有看见中文里面有一个比较正确的说法。
 3.  加上近两年来工作就是在学习 iCloud 如何使用。最近一个月做客服小弟回复了 N 个 iCloud 的问题。所以感觉还是有一些价值的。特意想记录一下。
 
@@ -93,4 +93,4 @@ CloudKit 的缓存路径
 
 
 [1]:	http://creativecommons.org/licenses/by-nc/3.0/deed.zh
-[2]:	http://iiiyu.com/atom.xml
+[2]:	https://iiiyu.com/atom.xml

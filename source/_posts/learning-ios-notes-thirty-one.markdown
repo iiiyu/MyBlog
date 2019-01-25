@@ -1,9 +1,9 @@
-title: iOS笔记(31) CocoaPods 手把手五分钟教你制作自己的podspec文件 
+title: iOS笔记(31) CocoaPods 手把手五分钟教你制作自己的podspec文件
 date: 2013-12-19 20:11:16
 tags: iOS
 ---
 
-本文仅作为个人记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
+本文仅作为个人记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
 
 ##开篇扯淡
 圣诞渐进，各种App都在黑五一波冰点。可以遇见的是12月25号前也会有一大波来临。但是！！！今年买软件貌似已经花了很多钱了。而且，也没有几个想入的了。所以就忍忍吧。
@@ -22,14 +22,14 @@ CocoaPods 不必在介绍了吧。如果你是一个iOS or OSX的开发者。然
 
 不过还是具有参考价值
 
-[使用CocoaPods](http://iiiyu.com/2012/10/26/learning-ios-notes-fourteen/)
+[使用CocoaPods](https://iiiyu.com/2012/10/26/learning-ios-notes-fourteen/)
 
-[配置自己的CocoaPods库](http://iiiyu.com/2013/03/01/learning-ios-notes-sixteen/)
+[配置自己的CocoaPods库](https://iiiyu.com/2013/03/01/learning-ios-notes-sixteen/)
 
 
 ##五分钟手把手
 
-在上面的[配置自己的CocoaPods库](http://iiiyu.com/2013/03/01/learning-ios-notes-sixteen/)里面。当时只是初步的使用pods。在学习的过程中。很多理解都很浅显。现在终于用了一年多CocoaPods。有点小心得就来记录一下。
+在上面的[配置自己的CocoaPods库](https://iiiyu.com/2013/03/01/learning-ios-notes-sixteen/)里面。当时只是初步的使用pods。在学习的过程中。很多理解都很浅显。现在终于用了一年多CocoaPods。有点小心得就来记录一下。
 
 github现在每天必看网站。一个是工作需要，另外一个是上面神奇的东西太多太多了。学无止境啊。
 
@@ -78,7 +78,7 @@ mate XCAsyncTestCase.podspec
 ```
 
 
-接着其实不用怎么改里面的内容 
+接着其实不用怎么改里面的内容
 
 我把注释删掉 作者改成原来的作者。然后需要的源码位置改成正确的
 
@@ -98,7 +98,7 @@ git add XCAsyncTestCase.podspec
 
 git commit -am "add XCAsyncTestCase.podspec file”
 
-git push   
+git push
 
 ```
 
@@ -154,5 +154,3 @@ AAAAA和BBBBB都是你target的名字，这样不同的target都会有pod库了�
 
 ##总结
 CocoaPods很好用。而且一直在进化。我发现我怎么写介绍都只停留在很浅显的基础上。更多更深入的内容需要自己使用了。然后慢慢积累的。总之。不用CocoaPods的Cocoa开发太不潮了。
-
-

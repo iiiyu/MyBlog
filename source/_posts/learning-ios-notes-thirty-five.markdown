@@ -3,7 +3,7 @@ date: 2014-04-08 22:49:48
 tags: iOS
 ---
 
-本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
+本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
 
 ## 开篇扯淡
 
@@ -64,6 +64,3 @@ OS X 要多一些...（好吧，大部分我都不认识）
 [NSDateFormatter で、和暦の変換に固定する](http://balunsoftware.jp/info/2013/06/nsdateformatter-japanese/)
 
 [在开发iOS程序时对日期处理的总结](http://kevin-wu.net/ios-locale-and-calendar-tips/)
-
-
-

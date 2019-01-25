@@ -3,7 +3,7 @@ date: 2014-03-18 21:23:35
 tags: iOS
 ---
 
-本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
+本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
 
 ## 开篇扯淡
 
@@ -28,12 +28,12 @@ tags: iOS
 ```
 https://github.com/erica/NSDate-Extensions
 
-// pod 
+// pod
 pod 'NSDate-Extensions', '~> 0.0.1'
 ```
 里面的这个方法(先贴出来)
 
-``` 
+```
 - (NSDate *) dateAtStartOfDay
 {
 	NSDateComponents *components = [CURRENT_CALENDAR components:DATE_COMPONENTS fromDate:self];
@@ -55,4 +55,3 @@ pod 'NSDate-Extensions', '~> 0.0.1'
 ## 小结
 
 上周作息实在不规律，现在需要调整一下。本来应该一次性写完发的，但是怕自己懒惰（比如上次的开了头就没有继续，所以我决定每天都写一点就算少一点还是把他发掉）
-

@@ -4,7 +4,7 @@ tags: iOS
 ---
 
 
-本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](http://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
+本文仅作为个人学习记录使用,也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/3.0/deed.zh)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助,您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站,这样您将能在第一时间获取本站信息.
 
 
 
@@ -12,13 +12,13 @@ tags: iOS
 
 恩，两月没更新blog，hexo都出来新主题来着。其实昨天为了找个背景图找了一小时我会随便乱说。就是为了找一个配合网站标题的背景图。其实hexo默认的就蛮好了，但是为了显示那么一点点与众不同还是替换了一下。
 
-扯淡结束，接上一篇[格志周年系列之夏令时(一)](http://iiiyu.com/2014/03/18/learning-ios-notes-thirty-three/)
+扯淡结束，接上一篇[格志周年系列之夏令时(一)](https://iiiyu.com/2014/03/18/learning-ios-notes-thirty-three/)
 
 ## 第一阶段Bug
 
 上次说过一个中国高富帅用户发Email来说，他去泰国旅游的时候，日记都不见了。
 
-其实不是日记不见了，日记都好好的躺在sqlite文件里面。而是查询不出来了。日记的保存是用了一个函数去获得了每天的00:00:00. 然后作为唯一标识来区别和查询。  
+其实不是日记不见了，日记都好好的躺在sqlite文件里面。而是查询不出来了。日记的保存是用了一个函数去获得了每天的00:00:00. 然后作为唯一标识来区别和查询。
 
 那日期出了啥问题？
 
@@ -26,7 +26,7 @@ tags: iOS
 
 调用的是
 
-``` 
+```
 - (NSDate *) dateAtStartOfDay
 {
 	NSDateComponents *components = [CURRENT_CALENDAR components:DATE_COMPONENTS fromDate:self];
@@ -90,9 +90,9 @@ NSLog(@"seconds %lf", [[NSDate date] timeIntervalSince1970]);
 在写文章的此时此刻打印出来是“1395324408.535384”。简单运算一下
 
 	1395324408.535384 / 60 / 60 / 24 / 365 ≈ 44.245446745
-	
+
 	2014.x - 44.x ≈ 1970
-	
+
 看到这里，就可以很明确的认为用NSDate来存储的时间是从1970-01-01 00:00:00 到那个时刻所经历的秒数。
 
 为什么是1970？如果你接触过一些计算机的知识或者其他编程语言或者数据库等。你都可能在时间相关的地方会发现1970很眼熟的样子。[放鸭](https://duckduckgo.com)搜索了一下。找到一些比较权威的说法。
@@ -114,4 +114,3 @@ NSLog(@"seconds %lf", [[NSDate date] timeIntervalSince1970]);
 ## 小结
 
 这么一点字又写了两天，还是要每天坚持啊。
-

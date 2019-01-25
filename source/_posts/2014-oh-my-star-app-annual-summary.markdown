@@ -182,7 +182,7 @@ Noark9 被成功忽悠。 Get it.
 
 
 [1]:	http://creativecommons.org/licenses/by/4.0/
-[2]:	http://iiiyu.com/atom.xml
+[2]:	https://iiiyu.com/atom.xml
 [3]:	http://ohmystarapp.com
 [4]:	http://vimeo.com/83384649
 [5]:	https://itunes.apple.com/us/app/oh-my-star/id788446112?l=en&mt=12

@@ -58,4 +58,4 @@ tags: read book notes
 
 
 [1]:	http://creativecommons%E3%80%82org/licenses/by-nc/4%E3%80%820/deed%E3%80%82zh_TW
-[2]:	http://iiiyu%E3%80%82com/atom%E3%80%82xml
+[2]:	https://iiiyu%E3%80%82com/atom%E3%80%82xml
