@@ -1,7 +1,7 @@
 ---
 title: 新西兰徒步指北 - 奥克兰 Maraetai Coastal #1
 date: 2018-08-15 23:41:28
-tags: [新西兰,新西兰徒步,徒步指南,新西兰徒步指北]
+tags: [新西兰,新西兰徒步,徒步指南,新西兰徒步指北,新西兰徒步指南]
 ---
 
 
@@ -14,6 +14,8 @@ tags: [新西兰,新西兰徒步,徒步指南,新西兰徒步指北]
 GPS定位：(-36.8816430, 175.0477450)
 
 从City出发，开车大概需要40-50分钟不等。开车的路都很好走，没有山路。
+
+<!--more-->
 
 ![](https://lh3.googleusercontent.com/-OOdZIrv6lmE/W3QXSuWQZlI/AAAAAAAAAUA/EOHG161MLfco3_fIp-Idmn8wIJk-AtKwgCHMYCw/I/15343347107886.jpg)
 
@@ -33,7 +35,7 @@ GPS定位：(-36.8816430, 175.0477450)
 
 ## 步道路线 && 步道长度
 
-![](https://lh3.googleusercontent.com/-p5vSGhhikuY/W3QbpiKtWLI/AAAAAAAAAUc/7nBooCSYaFYw_eUxHG6wqWB3mPwH_6oPgCHMYCw/I/15343358977070.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-p5vSGhhikuY/W3QbpiKtWLI/AAAAAAAAAUc/7nBooCSYaFYw_eUxHG6wqWB3mPwH_6oPgCHMYCw/I/15343358977070.jpg)
 
 到休整点返回的时候，可以原路返回。这样就来回都是海岸线。
 
@@ -58,6 +60,9 @@ GPS定位：(-36.8816430, 175.0477450)
 
 路线上有巨大的草坪和在一开始停车的地方有沙滩草坪，可以携带足球、排球等。跟朋友一起嗨。
 
+## 注意事项
+任何步道和徒步中全程严禁抽烟！
+请多带一个搜集垃圾的垃圾袋。任何垃圾(包括果皮和果核)请带回家。
 
 ## 一些体会
 
@@ -73,15 +78,15 @@ GPS定位：(-36.8816430, 175.0477450)
 
 ## 一些图片
 
-![1571534337463_.pic_hd](https://lh3.googleusercontent.com/-TfUYC1ClcBo/W3QiyBzcZwI/AAAAAAAAAU0/JevFbrq2m18p1CgFg5fnpnaLuXZwZ93xwCHMYCw/I/1571534337463_.pic_hd.jpg)
-![IMG_3182](https://lh3.googleusercontent.com/-Ix_h-darM3E/W3Qi1pyzaKI/AAAAAAAAAU4/z1scenKplFc9pt9TQ3SKuRkyPa6_YaLGACHMYCw/I/IMG_3182.jpg)
-![IMG_3187](https://lh3.googleusercontent.com/-IhE0Er9liTE/W3Qi6Y0MeyI/AAAAAAAAAU8/jtlf-3MOn-kpy_st5xS9amfhtFKpjQJpACHMYCw/I/IMG_3187.jpg)
-![IMG_3254](https://lh3.googleusercontent.com/-nhFrsprty50/W3Qi-VV1l1I/AAAAAAAAAVA/7zZrWssFjBcXLzKsWxee75dAIOHkhev_wCHMYCw/I/IMG_3254.jpg)
-![IMG_3190](https://lh3.googleusercontent.com/-DGoaBFSsIQ4/W3QjDk_P7LI/AAAAAAAAAVI/4g98cnKH1zY7hPImW_4eg-Efxqlw50MRwCHMYCw/I/IMG_3190.jpg)
-![IMG_3193](https://lh3.googleusercontent.com/-iu57LHMH6cM/W3QjJ717ffI/AAAAAAAAAVQ/A2djS13m_GIZPGLKne51w2qspujV8ImlACHMYCw/I/IMG_3193.jpg)
-![IMG_3196](https://lh3.googleusercontent.com/-D7iJGIsd8cE/W3QjP1Z5dZI/AAAAAAAAAVY/uJ7geTiOb-0h_2qEmjSiOHJhbid5s-X-ACHMYCw/I/IMG_3196.jpg)
-![IMG_3219](https://lh3.googleusercontent.com/-mG5aUngxlxU/W3QjXAHyWzI/AAAAAAAAAVg/-gczllb1B0whfpMYihZezsq5nPPUDhsJgCHMYCw/I/IMG_3219.jpg)
-![IMG_3226](https://lh3.googleusercontent.com/-_H4M23Fvi6k/W3QjdeTI5FI/AAAAAAAAAVo/ccefq9CK3gQJnlrCzrm0kaZV39KueC_UwCHMYCw/I/IMG_3226.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-TfUYC1ClcBo/W3QiyBzcZwI/AAAAAAAAAU0/JevFbrq2m18p1CgFg5fnpnaLuXZwZ93xwCHMYCw/I/1571534337463_.pic_hd.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-Ix_h-darM3E/W3Qi1pyzaKI/AAAAAAAAAU4/z1scenKplFc9pt9TQ3SKuRkyPa6_YaLGACHMYCw/I/IMG_3182.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-IhE0Er9liTE/W3Qi6Y0MeyI/AAAAAAAAAU8/jtlf-3MOn-kpy_st5xS9amfhtFKpjQJpACHMYCw/I/IMG_3187.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-nhFrsprty50/W3Qi-VV1l1I/AAAAAAAAAVA/7zZrWssFjBcXLzKsWxee75dAIOHkhev_wCHMYCw/I/IMG_3254.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-DGoaBFSsIQ4/W3QjDk_P7LI/AAAAAAAAAVI/4g98cnKH1zY7hPImW_4eg-Efxqlw50MRwCHMYCw/I/IMG_3190.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-iu57LHMH6cM/W3QjJ717ffI/AAAAAAAAAVQ/A2djS13m_GIZPGLKne51w2qspujV8ImlACHMYCw/I/IMG_3193.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-D7iJGIsd8cE/W3QjP1Z5dZI/AAAAAAAAAVY/uJ7geTiOb-0h_2qEmjSiOHJhbid5s-X-ACHMYCw/I/IMG_3196.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-mG5aUngxlxU/W3QjXAHyWzI/AAAAAAAAAVg/-gczllb1B0whfpMYihZezsq5nPPUDhsJgCHMYCw/I/IMG_3219.jpg)
+![新西兰徒步指南](https://lh3.googleusercontent.com/-_H4M23Fvi6k/W3QjdeTI5FI/AAAAAAAAAVo/ccefq9CK3gQJnlrCzrm0kaZV39KueC_UwCHMYCw/I/IMG_3226.jpg)
 
 
 
