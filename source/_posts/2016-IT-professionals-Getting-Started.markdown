@@ -3,6 +3,7 @@ title: 2016年移动互联网职业入门规划指南
 date: 2016-01-12 07:33:32
 tags: [随便瞎扯,写给18岁的自己]
 ---
+
 本文仅作为个人学习记录使用，也欢迎在[许可协议](http://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)范围内转载或使用，请尊重版权并且保留原文链接，谢谢您的理解合作。如果您觉得本站对您能有帮助，您可以使用[RSS](https://iiiyu.com/atom.xml)方式订阅本站，这样您将能在第一时间获取本站信息。
 
 
@@ -242,3 +243,8 @@ Android：其实 Material Design 也挺好看不是
 又是一篇拖了20天才断断续续写完的文章，质量上自己都不是很满意。
 
 希望能帮助到即将进入互联网行业的你。
+
+
+## 硬广时间
+
+我目前现在生活在新西兰。如果需要[婴儿奶粉](http://www.memezhua.com/catalog/category/view/s/yingernaifen/id/220/)、[保健品](http://www.memezhua.com/catalog/category/view/s/jingpin-nz/id/981/)、[程序员熬夜神器](http://www.memezhua.com/catalog/product/view/id/10427/s/ause7111/)。均可通过[么么爪新西兰代购](http://www.memezhua.com/)购买。价格在海外直邮上有一定优势，但是淘宝上低价没法比。优势上只能用我那可能并不存在的人品担保都是正品。
